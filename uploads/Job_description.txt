@@ -1,0 +1,3 @@
+Role: Software Developer
+
+Skills Required: Java, DevOps, AI, ML, Data Science,hTML,css,macine learnin,deep learning

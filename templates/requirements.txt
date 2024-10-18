@@ -1,0 +1,6 @@
+Flask==2.1.1
+scikit-learn==1.0.2
+transformers==4.16.2
+prometheus-client==0.13.1
+mlflow==1.24.0
+
